@@ -1,4 +1,4 @@
-package com.elace.util;
+package com.elace.common.utils;
 
 import java.text.DateFormat;
 import java.text.ParseException;
