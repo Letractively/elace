@@ -1,4 +1,4 @@
-package com.elace.dao;
+package com.elace.common.db.dao;
 
 import java.util.ArrayList;
 import java.util.Collection;

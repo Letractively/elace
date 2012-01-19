@@ -1,4 +1,4 @@
-package com.elace.util;
+package com.elace.common.utils;
 
 import java.beans.BeanInfo;
 import java.beans.IntrospectionException;

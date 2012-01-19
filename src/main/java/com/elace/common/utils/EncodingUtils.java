@@ -1,4 +1,4 @@
-package com.elace.util;
+package com.elace.common.utils;
 
 import java.io.UnsupportedEncodingException;
 import java.net.URLDecoder;

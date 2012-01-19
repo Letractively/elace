@@ -1,4 +1,4 @@
-package com.elace.dao.hibernate;
+package com.elace.common.db.dao;
 
 import java.io.Serializable;
 import java.util.ArrayList;
@@ -24,9 +24,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.util.Assert;
 
-import com.elace.dao.GenericDao;
-import com.elace.dao.Pagination;
-import com.elace.util.ReflectionUtils;
+import com.elace.common.utils.ReflectionUtils;
 
 /**
  * Hibernate的范型基类.

@@ -1,4 +1,4 @@
-package com.elace.util.spring;
+package com.elace.common.utils.spring;
 
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.NoSuchBeanDefinitionException;

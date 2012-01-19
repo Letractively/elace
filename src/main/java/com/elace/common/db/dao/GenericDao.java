@@ -1,4 +1,4 @@
-package com.elace.dao;
+package com.elace.common.db.dao;
 
 import java.io.Serializable;
 import java.util.List;
@@ -6,6 +6,8 @@ import java.util.Map;
 
 import org.hibernate.Criteria;
 import org.hibernate.criterion.Criterion;
+
+
 
 /**
  * DAO基类接口.
