@@ -1,1 +1,1 @@
-helloworld
+Welcome ${user.username} 's email is ${user.email}

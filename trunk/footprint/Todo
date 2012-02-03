@@ -1,7 +1,9 @@
 1.一帆
   -	配置初始环境
   	x Spring配置有些问题需解决
-  	- 集成freemarker
+  	x 集成freemarker
+  	x 配置Spring事务时，引发了No Hibernate Session bound to thread, and configuration does not allow creation
+  		x-1 解决方案在
   x 
   x 
   x
