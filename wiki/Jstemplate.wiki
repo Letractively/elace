@@ -1,0 +1,4 @@
+为了解决拼接html带来的代码臭味，我们决定使用template的方式解决。调研了两个解决方案，分别是：
+# google jstemplate
+# jquery template plugin
+下面一一介绍一下两个js库的使用方法。
