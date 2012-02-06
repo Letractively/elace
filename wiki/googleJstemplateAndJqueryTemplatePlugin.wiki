@@ -63,7 +63,9 @@ function showData(data) {
 
 ===2.jquery template plugin===
 ====官网地址====
- 具体地址没有找到，但看到一个博客对他的介绍比较详细，[http://ivorycity.com/blog/jquery-template-plugin/]
+[http://archive.plugins.jquery.com/project/Templates]
+官方博客对他的介绍比较详细：
+[http://ivorycity.com/blog/jquery-template-plugin/]
 ====使用介绍====
 该库是jquery的插件，短小精悍，使用方便，对以一般场景的html拼接已经足够。
   # 基本介绍
