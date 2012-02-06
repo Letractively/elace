@@ -129,6 +129,19 @@ Great programmers begin with: hello, world
   由于博客写的很详细，大家直接参考即可：
  [http://ivorycity.com/blog/jquery-template-plugin/]
 
+===mustache===
+这个框架也比较流行，并且是jquery template plugin作者所推荐，应该说，是未来的一个趋势。我们也简单看看。
+====官方地址====
+[https://github.com/janl/mustache.js]
+====使用介绍====
+该库不仅能独立执行，还可以和很多流行插件集成
+  *jQuery
+  *Dojo
+  *YUI
+  *RequireJS
+  *qooxdoo
+
+ 具体用法大同小异，可以直接参考官方例子
 ===总结===
 鉴于我们一般的使用场景，推荐使用jquery template plugin来简化开发，不使用jstemplate的原因主要是相对于第二种略显麻烦，虽然功能更显强大，但大多数情况下后者已经够用。
 
